@@ -6,7 +6,7 @@
         <div class="container">
             <div class="row mx-0">
                 <div class="col-12 w-100 text-center">
-                    <p class="lead">Share your personal style. Stay inspired.
+                    <p class="lead">Share your personal style. Stay inspired. chnFE
                     </p>
                 </div>
             </div>
