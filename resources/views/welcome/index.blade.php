@@ -35,7 +35,7 @@
                </div>
                <div class="col">
                   <div class="row"><a href="/"> NAME</a> 
-                  <button style="margin-left:10px"data-view="NewFanButton" class="button  pre-reg" href="/">
+                  <button style="margin-left:10px"data-view="NewFanButton" class="fan-button  pre-reg" href="/">
                      <span class="unfan"><i class="fa fa-check"></i> Fanned</span>
                      <span class="fan"><i class="fa fa-plus"></i> Fan</span>
                      </button>
@@ -87,10 +87,10 @@
                   <b>20</b>
                </div>
                <div class="col-2">
-                  <button class="button" >SAVE</button>
+                  <button class="save-button">SAVE</button>
                </div>
-               <div class="col-6">
-                  <ul data-view="SocialButtons"  class="" style="float:left;">
+               <div class="col">
+                  <ul class="socialbuttons" style="float:left;">
                      <a href="/">
                      <i class="fa fa-facebook "></i>
                      </a>
@@ -166,16 +166,16 @@
             </div>
             <div style="margin-top: 10px"class="row">
                <div class="col-2">
-                  <button >HYPE</button>
+                  <button class="button">HYPE</button>
                </div>
                <div class="col-2">
                   <b>20</b>
                </div>
                <div class="col-2">
-                  <button >SAVE</button>
+                  <button class="save-button" >SAVE</button>
                </div>
                <div class="col-6">
-                  <ul data-view="SocialButtons"  class="" style="float:left;">
+                  <ul class="socialbuttons" style="float:left;">
                      <a href="/">
                      <i class="fa fa-facebook "></i>
                      </a>
