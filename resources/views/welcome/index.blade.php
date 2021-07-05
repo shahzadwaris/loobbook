@@ -52,7 +52,7 @@
             </div>
             <div class="row ">
                <img style="width:80%; height:80%" src="{{asset('/image.jpg')}}" alt="BIG PICTURE">
-               <ul>
+               <ul style="list-style-type:none;">
                   <li>
                      <a href="/">
                      <i class="fa fa-search-plus"></i>
@@ -137,7 +137,7 @@
             </div>
             <div class="row ">
                <img style="width:80%; height:80%" src="{{asset('/image.jpg')}}" alt="BIG PICTURE">
-               <ul>
+               <ul style="list-style-type:none;">
                   <li>
                      <a href="/">
                      <i class="fa fa-search-plus"></i>
@@ -386,8 +386,8 @@
             </div>
          </div>
 
-         <h4>Styles</h4>
-         <ul>
+         <h4 >Styles</h4>
+         <ul style="list-style-type:none;">
             <li>
             <a href="/">Style 1</a>
             </li>
@@ -396,7 +396,7 @@
             </li>
          </ul>
          <h4>Countries</h4>
-         <ul>
+         <ul style="list-style-type:none;">
             <li>
             <a href="/">Country 1</a>
             </li>
@@ -405,7 +405,7 @@
             </li>
          </ul>
          <h4>Category</h4>
-         <ul>
+         <ul style="list-style-type:none;">
             <li>
             <a href="/">Category 1</a>
             </li>
